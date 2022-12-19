@@ -1,4 +1,4 @@
-# Mini-Project-1
+# module-1-horiseon-website
 
 ## Description
 This is my first project with Rutgers full-stack web development bootcamp. The aim of this project is to assess my ability to refactor existing code to make it more accessible which is a common task for front-end and junior developers.
