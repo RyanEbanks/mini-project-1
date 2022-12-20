@@ -1,5 +1,8 @@
 # module-1-horiseon-website
 
+## Deployment Link
+[Click here!](https://ryanebanks.github.io/module-1-horiseon-website/#social-media-marketing)
+
 ## Description
 This is my first project with Rutgers full-stack web development bootcamp. The aim of this project is to assess my ability to refactor existing code to the horiseon website to make it more accessible which is a common task for front-end and junior developers.
 
