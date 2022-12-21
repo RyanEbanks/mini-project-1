@@ -25,11 +25,10 @@
             </ul>
         </nav>
     </header>
-<!--Find a way to make alternate text for hero css image-->
-
-    <section class="hero" title="Four persons in a marketing meeting"></section>
+<!--Using an aria-label to work as an alternate text for the div that holds a css image-->
+    <section class="hero" aria-label="Four persons in a marketing meeting"></section>
 <!--Body (Article on the left)-->
-    <section class="content">
+    <article class="content">
         <article class="search-engine-optimization" id="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Types of search engine Optimization: Content, Headings, Mobile Compatibility, Social Media, Link Building, Backlink"/>
             <h2>Search Engine Optimization</h2>
@@ -51,9 +50,9 @@
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
             </p>
         </article>
-    </section>
-<!--Body (Aside on the right)-->
-    <section class="benefits">
+    </article>
+<!--Body (Article with encased Aside on the right)-->
+    <article class="benefits">
         <aside class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt="Icon Representing Lead Generation"/>
@@ -75,7 +74,7 @@
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </aside>
-    </section>
+    </article>
 <!--Footer Information-->
     <footer class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
